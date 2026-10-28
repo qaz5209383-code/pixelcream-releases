@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "notes": "PixelCream 像素冰淇淋 v1.0.0 正式交付版\n- 彻底攻克中性灰立体光影与通透婴儿肌\n- 挂接 FT00000014 自然白 II 3D LUT (权重 0.90)\n- 123 个算法效果全覆盖，177 款彩妆预设 + 24 套整妆\n- 130 组解密背景与天空替换资产\n- 极限压测 12 张 4K UHD 0.99s 导入 / 0.20s 导出\n- 完整支持单机离线运行，内置自动在线更新检查",
+  "pub_date": "2026-10-28T16:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/qaz5209383-code/pixelcream-releases/releases/download/v1.0.0/PixelCream-Setup-1.0.0.exe"
+    }
+  }
+}
